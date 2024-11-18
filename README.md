@@ -1,7 +1,9 @@
 # My-Personal-Project
 Angel Cabanas
-github hosting link
+Github link
 https://github.com/imgouted/My-Personal-Project.git
+Hosting link
+https://imgouted.github.io/My-Personal-Project/
 User stories
 1. The people interacting with this website will be able to locate a specific training program to meet their goals.
 2. Whichever program you pick will have a specific 12 week training program designed to meet your goals.
@@ -15,6 +17,7 @@ Functionality details of the project
 1. Home page is the introduction of the website it will have different menus for pricing, an about section to get information needed as well.
 2. At the top will have a navbar so you can click and find information that you are linking for 
 3. clicking on one of the navbar links takes you to that specific menu regarding what you clicked on.
+4. Add a how'd you hear about us section
 Technologies used
 1. html
 2. css
@@ -23,3 +26,5 @@ Ideas for future improvement
 1. I would add a review form so people can leave reviews
 2. Add a shop section for the navbar so people can buy products
 3. Add special deals
+HTML Validator(just to validate the html)
+https://validator.w3.org/
