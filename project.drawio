@@ -10,8 +10,11 @@
         <mxCell id="nmu-PA1mEN4n4ObR8SEz-1" value="Welcome to tone up and tone down fitness!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-40" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nmu-PA1mEN4n4ObR8SEz-2" value="Hello thank you for joining our health cl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nmu-PA1mEN4n4ObR8SEz-2" value="Hello, thank you for joining our gym!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="80" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nmu-PA1mEN4n4ObR8SEz-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Choose a fitness program down below&lt;/h1&gt;&lt;p&gt;We offer three fitness programs, a bulking, maintaining, and a cutting program.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="420" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
