@@ -25,6 +25,14 @@ th
     color: white;
     background-color: transparent;
 }
+.dropdown-menu
+{
+    border: 1px solid black;
+}
+.dropdown-item
+{
+    background-color: grey;
+}
 
 
 
