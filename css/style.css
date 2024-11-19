@@ -54,7 +54,15 @@ footer
     margin-right: auto;
     color: white;
 }
-#bg-color
+body
 {
     background-color: dimgrey;
+}
+.nav-item a[href="about.html"]:hover
+{
+    text-decoration: underline;
+}
+.nav-item a[href="contact.html"]:hover
+{
+    text-decoration: underline;
 }
