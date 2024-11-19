@@ -33,3 +33,7 @@ th
 {
     background-color: grey;
 }
+.table-bordered
+{
+    border: 4px solid black;
+}
