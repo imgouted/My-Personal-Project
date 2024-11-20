@@ -45,3 +45,24 @@ th[scope="col"]
 {
     border: 1px solid black;
 }
+.img-fluid 
+{
+    border: 4px solid black;
+}
+#border
+{
+    border: 3px solid black;
+}
+#pg-color
+{
+    border: 3px solid black;
+}
+tr[scope="row"]
+{
+    font-weight: 700;
+}
+.tr-color
+{
+    font-weight: 600;
+    color: white;
+}

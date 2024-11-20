@@ -9,3 +9,39 @@
 body{
     background-color: grey;
 }
+.container
+{
+    border: 4px solid black;
+}
+#first-name
+{
+    border: 4px solid black;
+}
+#last-name
+{
+    border: 4px solid black;
+}
+#email
+{
+    border: 4px solid black;
+}
+#phone-number
+{
+    border: 4px solid black;
+}
+#message
+{
+    border: 4px solid black;
+}
+.btn.btn-secondary.mr-2
+{
+    border: 2px solid black;
+}
+.btn.btn-secondary
+{
+    border: 2px solid black;
+}
+.btn.btn-dark
+{
+    border: 2px solid lightgray;
+}

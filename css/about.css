@@ -71,3 +71,24 @@ body
 {
     font-weight: 650;
 }
+.card-img-top
+{
+    border: 3px solid black;
+}
+.card-body
+{
+    border: 3px solid black;
+}
+.card-header
+{
+    border: 3px solid black;
+}
+.btn.btn-dark
+{
+    margin-top: 0.2rem;
+    border: 3px solid black;
+}
+h1
+{
+    border: 2px solid black;
+}
