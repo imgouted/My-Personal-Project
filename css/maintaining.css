@@ -12,6 +12,7 @@ hr
 }
 .card
 {
+    border: 2px solid black;
     background-color: darkgrey;
 }
 .table-bordered, th, 
@@ -39,4 +40,8 @@ th[scope="col"]
 {
     background-color: lightgrey;
     border: 4px solid black;
+}
+.img-card-top.img-fluid
+{
+    border: 1px solid black;
 }

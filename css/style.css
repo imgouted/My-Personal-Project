@@ -72,3 +72,11 @@ body
 {
     text-align: end;
 }
+.card-img-top
+{
+    border: 4px solid black;
+}
+.card-body
+{
+    border: 4px solid black;
+}
