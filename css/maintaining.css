@@ -1,3 +1,32 @@
 body{
     background-color: darkgrey;
 }
+p
+{
+    font-weight: 700;
+}
+hr
+{
+    border-color: black;
+    border-width: 4px;
+}
+.card
+{
+    background-color: darkgrey;
+}
+.table-bordered, th, 
+.table-bordered, td
+{
+    border: 4px solid black;
+    border-collapse: collapse;
+}
+.table-bordered tbody tr td{
+    border: 4px solid black;
+}
+.table {
+    border-collapse: collapse;
+}
+th[scope="col"]
+{
+    border: 4px solid black;
+}
