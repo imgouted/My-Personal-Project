@@ -30,3 +30,8 @@ th[scope="col"]
 {
     border: 4px solid black;
 }
+.good-job
+{
+    display: flex;
+    justify-content: end;
+}
