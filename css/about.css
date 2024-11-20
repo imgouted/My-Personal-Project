@@ -28,3 +28,12 @@ body
 {
     background-color: darkgrey;
 }
+.color-change
+{
+    color: black;
+    font-weight: bold;
+}
+.color-change:hover
+{
+    color: black;
+}
