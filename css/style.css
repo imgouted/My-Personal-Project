@@ -30,9 +30,10 @@ th
 {
     border: 1px solid black;
 }
-.dropdown-item
+.dropdown-item:hover
 {
-    background-color: grey;
+    background-color: darkgrey;
+    text-decoration: underline;
 }
 .dropdown-divider
 {
