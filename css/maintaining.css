@@ -35,3 +35,8 @@ th[scope="col"]
     display: flex;
     justify-content: end;
 }
+.title
+{
+    background-color: lightgrey;
+    border: 4px solid black;
+}
