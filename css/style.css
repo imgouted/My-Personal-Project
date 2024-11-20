@@ -66,3 +66,7 @@ body
 {
     text-decoration: underline;
 }
+.btn.btn-dark
+{
+    text-align: end;
+}
