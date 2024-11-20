@@ -1,7 +1,3 @@
-body
-{
-    background-color: grey;
-}
 p
 {
     font-weight: bold;
@@ -11,4 +7,11 @@ img
     height: 750px;
     width: 750px;
 }
-
+body
+{
+    background-color: grey;
+}
+.card-body
+{
+    background-color: grey;
+}
