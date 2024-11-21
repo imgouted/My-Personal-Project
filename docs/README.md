@@ -24,4 +24,4 @@ Ideas for future improvement
 4. Add a how'd you hear about us section
 HTML Validator(just to validate the html)
 https://validator.w3.org/
-![Diagram](./path/to/your/image.png)
+![Diagram](./about.drawio)
