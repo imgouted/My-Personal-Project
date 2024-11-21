@@ -69,6 +69,7 @@ body
 }
 #darker
 {
+    color: black;
     font-weight: 650;
 }
 .card-img-top
@@ -97,6 +98,14 @@ h1
     color: black;
 }
 .card-title
+{
+    color: black;
+}
+.card-text
+{
+    color: black;
+}
+.h3
 {
     color: black;
 }
