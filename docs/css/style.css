@@ -54,7 +54,7 @@ footer
 }
 #introduction
 {
-    margin-right: auto;
+    text-align: center;
     color: white;
 }
 body
@@ -97,4 +97,10 @@ th[scope="col"]
 .card-title
 {
     color: black;
+}
+.navbar-collapse{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
 }
