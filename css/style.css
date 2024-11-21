@@ -8,7 +8,8 @@ th
 }
 .Exercise-days
 {
-    font-weight: 500;
+    color: black;
+    font-weight: 650;
 }
 .exercises
 {
@@ -88,4 +89,8 @@ input[type="text"]:focus
 {
     outline: none;
     box-shadow: 0 0 0 2px white;
+}
+th[scope="col"]
+{
+    color: black;
 }

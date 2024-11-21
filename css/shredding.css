@@ -20,5 +20,20 @@ h1
 }
 th[scope="col"]
 {
+    color: black;
     border: 4px solid black;
+}
+hr
+{
+    border: 2px solid black;
+}
+td
+{
+    font-weight: 600;
+    color: white;
+}
+#one, #two, #three
+{
+    font-weight: 700;
+    color: black;
 }
