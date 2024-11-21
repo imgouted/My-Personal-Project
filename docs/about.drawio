@@ -27,6 +27,9 @@
         <mxCell id="crYHHaG_sVv328J9ixqh-7" value="And facilities images about the gym" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="920" width="680" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="crYHHaG_sVv328J9ixqh-8" value="button that takes you to home page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1100" width="680" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
