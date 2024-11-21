@@ -76,8 +76,15 @@ tr[scope="row"]
     font-weight: 600;
     color: white;
 }
-.h6
+span
 {
+    border: 4px solid black;
     font-weight: bold;
     color: black;
+}
+.img-container
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
 }
