@@ -45,3 +45,15 @@ body{
 {
     border: 2px solid lightgray;
 }
+h1
+{
+    color: black;
+}
+.color.d-inline-block
+{
+    color: black;
+}
+.bi.bi-emoji-smile
+{
+    color: black;
+}
