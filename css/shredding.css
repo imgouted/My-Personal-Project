@@ -16,3 +16,14 @@ td, tr
 {
     border: 4px solid black;
 }
+.table-bordered
+{
+    width: 1008px;
+    border: 4px solid black;
+}
+.table-bordered, th,
+.table-bordered td
+{
+    width: 1008px;
+    border: 4px solid black;
+}
