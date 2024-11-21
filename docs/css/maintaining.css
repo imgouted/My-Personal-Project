@@ -94,3 +94,8 @@ span
     justify-content: space-between;
     align-items: flex-start;
 }
+#one, #two, #three
+{
+    color: black;
+    font-weight: 700;
+}
