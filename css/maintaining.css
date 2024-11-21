@@ -30,6 +30,8 @@ hr
 }
 th[scope="col"]
 {
+    font-weight: 700;
+    color: black;
     border: 4px solid black;
 }
 .good-job
@@ -39,6 +41,8 @@ th[scope="col"]
 }
 .title.mb-0
 {
+    color: black;
+    font-weight: 700;
     background-color: lightgrey;
     border: 3px solid black;
 }
@@ -52,14 +56,19 @@ th[scope="col"]
 }
 #border
 {
+    color: black;
+    font-weight: 700;
     border: 3px solid black;
 }
 #pg-color
 {
+    font-weight: 700;
+    color: black;
     border: 3px solid black;
 }
 tr[scope="row"]
 {
+    color: black;
     font-weight: 700;
 }
 .tr-color
@@ -67,4 +76,9 @@ tr[scope="row"]
     text-align: top;
     font-weight: 600;
     color: white;
+}
+.h6
+{
+    font-weight: bold;
+    color: black;
 }
